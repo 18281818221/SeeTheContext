@@ -1,6 +1,6 @@
 ## Seeing the Context: Rich Visual Context-Aware Speech Recognition via Multimodal Reasoning
 
-[![arXiv](https://img.shields.io/badge/arXiv-2603.07263-b31b1b.svg)](https://arxiv.org/pdf/2603.07263)
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-2603.07263-b31b1b.svg)](https://arxiv.org/pdf/2603.07263)-->
 
 This repository contains the open-source implementation for **ContextAVSR**, a multimodal project leveraging **Qwen2.5-Omni-7B** for Context Audio-Visual Speech Recognition (AVSR) tasks. It includes training scripts, configuration details, and architectural assets.
 
